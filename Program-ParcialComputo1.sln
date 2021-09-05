@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program-ParcialComputo1", "Program-ParcialComputo1\Program-ParcialComputo1.csproj", "{B5C5183F-94D2-44FE-B59C-110CC46D4B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSistemaUsers", "ConsoleSistemaUsers\ConsoleSistemaUsers.csproj", "{0383CE1F-FBE6-44F3-9D61-D1241E0812B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C5183F-94D2-44FE-B59C-110CC46D4B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C5183F-94D2-44FE-B59C-110CC46D4B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C5183F-94D2-44FE-B59C-110CC46D4B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C5183F-94D2-44FE-B59C-110CC46D4B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0383CE1F-FBE6-44F3-9D61-D1241E0812B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0383CE1F-FBE6-44F3-9D61-D1241E0812B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0383CE1F-FBE6-44F3-9D61-D1241E0812B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0383CE1F-FBE6-44F3-9D61-D1241E0812B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E72DE8B1-06F7-4AB9-8552-0E6D3041730A}
+	EndGlobalSection
+EndGlobal
